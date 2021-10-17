@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kimia Noorbakhsh, and I am a fourth-year undergraduate student of Computer Engineering at the Sharif University of Technology. I am also minoring in Mathematics and Applications at the same university.
+My name is Kimia Noorbakhsh, and I am an undergraduate student of Computer Engineering at the Sharif University of Technology. I am also minoring in Mathematics and Applications at the same university.
 
 My main areas of interest include
-- Transfer Learning
 - Causal and Statistical Inference
+- Transfer Learning
 - Adversarial Machine Learning
 
 Previously I have worked on
