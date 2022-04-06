@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kimia Noorbakhsh, and I am an undergraduate student of Computer Engineering at the Sharif University of Technology. I am also minoring in Mathematics and Applications at the same university.
+I am a last-year Bachelor of Science student in computer engineering with the minor in applied mathematics at Sharif University of Technology (SUT).
 
 My main areas of interest include
 - Causal and Statistical Inference
