@@ -38,16 +38,21 @@ Research experience
   * Project: The research was in the field of regular dominating sets and (𝑟, 𝑠)-dominating sets in graphs. The work also included presenting tutorials about recent publications in graph theory in the [Graph Theory Association](https://graphtheoryassociation.com/) (Link to [my tutorial](https://graphtheoryassociation.com/perfect-forests-by-kimia-noorbakhsh/) on Perfect Forests.).
 
   
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, R, Java, C, Racket, Android *, C# *
+* Machine Learning Libraries: PyTorch, Tensorflow*
+* Word Processors: Microsoft Office, LaTeX
+* Miscellaneous: PostgreSQl
 
-Publications
+*Limited Proficiency
+
+Languages
+======
+* Persian: Native
+* English: Fluent
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -67,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams --> 
