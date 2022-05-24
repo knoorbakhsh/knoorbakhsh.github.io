@@ -27,7 +27,7 @@ Research experience
   * Supervisor: Professor [Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
   * Project:  LPF-Defense: 3D Adversarial Defense based on Frequency Analysis ([link](https://knoorbakhsh.github.io/publication/lpf-defense))
 
-* **Undergraduate Research Assistant** (Remote), Fall 2020 - Spring 2021
+* **Undergraduate Research Assistant** (Remote), Fall 2020 - Spring 2022
   * Artificial Intelligence and Systems Laboratory ([AISys](https://pooyanjamshidi.github.io/AISys/)), University of South Carolina
   * Supervisor: Professor [Pooyan Jamshidi](https://pooyanjamshidi.github.io/)
   * Project:  Pretrained Language Models are Symbolic Mathematics Solvers too! ([link](https://knoorbakhsh.github.io/publication/symbolic-math))
