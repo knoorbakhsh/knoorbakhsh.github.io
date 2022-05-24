@@ -17,27 +17,25 @@ Education
 
 Research experience
 ======
-* Summer 2021: Research Intern
+* **Research Intern**, Summer 2021 
   * [Networks Learning Lab](https://github.com/Networks-Learning), Max Planck Institute for Software Systems
   * Supervisor: Professor [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
   * Project: Counterfactual Temporal Point Processes ([link](https://knoorbakhsh.github.io/publication/countercaftual-tpp))
 
-* Spring 2021 - Spring 2022: Undergraduate Research Assistant
+* **Undergraduate Research Assistant**, Spring 2021 - Spring 2022
   * Image Processing Laboratory ([IPL](http://ipl.ce.sharif.edu/)), Sharif University of Tchnology
   * Supervisor: Professor [Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
   * Project:  LPF-Defense: 3D Adversarial Defense based on Frequency Analysis ([link](https://knoorbakhsh.github.io/publication/lpf-defense))
 
-* Fall 2020 - Spring 2021: Undergraduate Research Assistant (Remote)
+* **Undergraduate Research Assistant** (Remote), Fall 2020 - Spring 2021
   * Artificial Intelligence and Systems Laboratory ([AISys](https://pooyanjamshidi.github.io/AISys/)), University of South Carolina
   * Supervisor: Professor [Pooyan Jamshidi](https://pooyanjamshidi.github.io/)
   * Project:  Pretrained Language Models are Symbolic Mathematics Solvers too! ([link](https://knoorbakhsh.github.io/publication/symbolic-math))
 
-* Fall 2020 - Spring 2021: Undergraduate Research Assistant
+* **Undergraduate Research Assistant**, Fall 2020 - Spring 2021
   * Graph Theory research Group, Sharif University of Technology
   * Supervisor: Professor [Saieed Akbari](https://scholar.google.com/citations?user=1Lozhc4AAAAJ&hl=en)
-  * Project: The research was in the field of regular dominating sets and (𝑟, 𝑠)-dominating sets in graphs.
-
-    The work also included presenting tutorials about recent publications in graph theory in the [Graph Theory Association](https://graphtheoryassociation.com/) (Link to [my tutorial](https://graphtheoryassociation.com/perfect-forests-by-kimia-noorbakhsh/) on Perfect Forests.).
+  * Project: The research was in the field of regular dominating sets and (𝑟, 𝑠)-dominating sets in graphs. The work also included presenting tutorials about recent publications in graph theory in the [Graph Theory Association](https://graphtheoryassociation.com/) (Link to [my tutorial](https://graphtheoryassociation.com/perfect-forests-by-kimia-noorbakhsh/) on Perfect Forests.).
 
   
 <!-- Skills
