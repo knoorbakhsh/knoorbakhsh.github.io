@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Computer Engineering, Sharif University of Technology (SUT), 2018 – Present 
+* High School Diploma, Farzanegan 1 High School, 2014 - 2018 
+* National Mathematical Olympiad Preparation Camp, Young Scholars Club, Jun. 2016 - Sep. 2016
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Intern
+  * [Networks Learning Lab](https://github.com/Networks-Learning), Max Planck Institute for Software Systems, Germany
+  * Supervisor: Professor [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
+  * Project: Counterfactual Temporal Point Processes ([link](https://knoorbakhsh.github.io/publication/countercaftual-tpp))
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021 - Spring 2022: Undergraduate Research Assistant
+  * Image Processing Laboratory ([IPL](http://ipl.ce.sharif.edu/)), Sharif University of Tchnology
+  * Supervisor: Professor [Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
+  * Project:  LPF-Defense: 3D Adversarial Defense based on Frequency Analysis ([link](https://knoorbakhsh.github.io/publication/lpf-defense))
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
