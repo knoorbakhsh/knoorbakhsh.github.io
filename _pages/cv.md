@@ -23,7 +23,7 @@ Research experience
   * Project: Counterfactual Temporal Point Processes ([link](https://knoorbakhsh.github.io/publication/countercaftual-tpp))
 
 * **Undergraduate Research Assistant**, Spring 2021 - Spring 2022
-  * Image Processing Laboratory ([IPL](http://ipl.ce.sharif.edu/)), Sharif University of Tchnology
+  * Image Processing Laboratory ([IPL](http://ipl.ce.sharif.edu/)), Sharif University of Technology
   * Supervisor: Professor [Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
   * Project:  LPF-Defense: 3D Adversarial Defense based on Frequency Analysis ([link](https://knoorbakhsh.github.io/publication/lpf-defense))
 
