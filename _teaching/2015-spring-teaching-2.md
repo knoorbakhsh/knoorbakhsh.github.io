@@ -2,7 +2,7 @@
 title: "Discrete Structures"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/ai-course
+permalink: /teaching/dm-course
 venue: "Sharif University, CE Department (Spring 2022 (Head TA), Spring 2021 (Head TA), Spring 2020)"
 # date: 
 # location: 
