@@ -11,7 +11,7 @@ venue: "Sharif University, CE Department (Spring 2022 (Head TA), Spring 2021 (He
 Led and managed a group of grad and undergrad TA's to design and grade course assignments, design and grade course exams, and hold TA sessions during the semester. [[2022 Course website](http://ce.sharif.edu/courses/00-01/2/ce115-1/index.php/section/syllabus/file/syllabus)] 
 
 
-Instructor: Prof. Hamid Zarrabi-Zadeh
+Instructor: [Prof. Hamid Zarrabi-Zadeh](http://sharif.edu/~zarrabi/)
 
 Course description:
 ======

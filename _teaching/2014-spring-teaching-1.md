@@ -10,7 +10,7 @@ venue: "Sharif University, CE Department (Spring 2022, Fall 2021)"
 ---
 Designed and graded Machine Learning and Deep Learning Assignments (theoretical and practical). Also designed and graded the course's final exam solutions regarding ML and DL questions. [[Course website](https://sut-ai.github.io/)] 
 
-Instructor: Prof. Mohammad Hosseing Rohban
+Instructor: [Prof. Mohammad Hosseing Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ)
 
 Course description:
 ======
