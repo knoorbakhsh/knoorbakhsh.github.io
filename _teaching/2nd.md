@@ -1,7 +1,7 @@
 ---
 title: "Discrete Structures"
 collection: teaching
-type: ""
+type: "CE-40115"
 permalink: /teaching/dm-course
 venue: "Sharif University, CE Department (Spring 2022 (Head TA), Spring 2021 (Head TA), Spring 2020)"
 # date: 

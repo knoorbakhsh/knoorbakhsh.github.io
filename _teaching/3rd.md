@@ -1,0 +1,17 @@
+---
+title: "Artificial Intelligence"
+collection: teaching
+type: "CE-40417"
+permalink: /teaching/ai-course
+venue: "Sharif University, CE Department (Spring 2022, Fall 2021)"
+# date: 
+# location: 
+# instructor:
+---
+Designed and graded Machine Learning and Deep Learning Assignments (theoretical and practical). Also designed and graded the course's final exam solutions regarding ML and DL questions. [[Course website](https://sut-ai.github.io/)] 
+
+Instructor: [Prof. Mohammad Hosseing Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ)
+
+Course description:
+======
+This course is a gentle introduction to the concepts and methodologies in Artificial Intelligence from both theoretical and practical perspectives. This includes designing intelligent agents through state-space search methods, knowledge representation and inference, and Machine Learning. At the end of this course, students are expected to be able to develop intelligent solutions for semi-real world problems through appropriate methods that are discussed in the class. Furthermore, they are expected to gain knowledge and experience to analyze the inner-working of the methods and customize them for specific problems.
