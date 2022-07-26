@@ -17,6 +17,11 @@ Education
 
 Research experience
 ======
+* **Scientific Intern**, Summer 2022 
+  * [Distributed Algorithms and Systems Lab](https://ist.ac.at/en/research/alistarh-group/), Institute of science and technology Austria (ISTA)
+  * Supervisor: Professor [Dan Alistarh](https://people.csail.mit.edu/alistarh/)
+  * Project: TBD
+
 * **Research Intern**, Summer 2021 
   * [Networks Learning Lab](https://github.com/Networks-Learning), Max Planck Institute for Software Systems
   * Supervisor: Professor [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
@@ -50,7 +55,7 @@ Skills
 Languages
 ======
 * Persian: Native
-* English: Fluent
+* English: Fluent (Toefl IBT: 111/120 (R: 26, L: 30, S: 28, W: 27))
 
 <!-- Publications
 ======
