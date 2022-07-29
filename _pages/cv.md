@@ -55,7 +55,7 @@ Skills
 Languages
 ======
 * Persian: Native
-* English: Fluent (Toefl IBT: 111/120 (R: 26, L: 30, S: 28, W: 27))
+* English: Fluent (Toefl IBT: **111**/120 (R: 26, L: 30, S: 28, W: 27))
 
 <!-- Publications
 ======
