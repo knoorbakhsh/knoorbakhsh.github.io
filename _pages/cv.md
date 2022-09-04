@@ -20,7 +20,7 @@ Research experience
 * **Scientific Intern**, Summer 2022 
   * [Distributed Algorithms and Systems Lab](https://ist.ac.at/en/research/alistarh-group/), Institute of science and technology Austria (ISTA)
   * Supervisor: Professor [Dan Alistarh](https://people.csail.mit.edu/alistarh/)
-  * Project: TBD
+  * Project: Computationally efficient transfer learning on large datasets using sparsity methods.
 
 * **Research Intern**, Summer 2021 
   * [Networks Learning Lab](https://github.com/Networks-Learning), Max Planck Institute for Software Systems
@@ -46,7 +46,7 @@ Research experience
 Skills
 ======
 * Programming Languages: Python, R, Java, C, Racket, Android *, C# *
-* Machine Learning Libraries: PyTorch, Tensorflow*
+* Machine Learning Libraries: PyTorch, Tensorflow
 * Word Processors: Microsoft Office, LaTeX
 * Miscellaneous: PostgreSQl
 

@@ -16,7 +16,7 @@ I am also a remote undergraduate research assitant at [AISYS Lab](https://pooyan
 
 My main areas of interest include
 - Causal and Statistical Inference (MPI-SWS)
-- Transfer Learning (ISTA, AISYS (UoSC))
+- Transfer Learning (ISTA, AISYS (UofSC))
 - Adversarial Machine Learning (IPL (SUT))
 
 Previously I have worked on
