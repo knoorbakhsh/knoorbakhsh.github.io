@@ -20,38 +20,37 @@ Research experience
 * **Scientific Intern**, Summer 2022 
   * [Distributed Algorithms and Systems Lab](https://ist.ac.at/en/research/alistarh-group/), Institute of science and technology Austria (ISTA)
   * Supervisor: Professor [Dan Alistarh](https://people.csail.mit.edu/alistarh/)
-  * Project: Computationally efficient transfer learning on large datasets using sparsity methods.
+  * **Sparse Transfer Learning**: Using pruning methods to perform computationally efficient transfer learning on large models.
 
 * **Research Intern**, Summer 2021 
   * [Networks Learning Lab](https://github.com/Networks-Learning), Max Planck Institute for Software Systems
   * Supervisor: Professor [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
-  * Project: Counterfactual Temporal Point Processes ([link](https://knoorbakhsh.github.io/publication/countercaftual-tpp))
+  * **Counterfactual Temporal Point Processes**: Developed a new method to simulate counterfactual realizations of the temporal point process under an alternative intensity function. ([link](https://knoorbakhsh.github.io/publication/countercaftual-tpp))
 
 
 * **Undergraduate Research Assistant** (Remote), Fall 2020 - Spring 2022
   * Artificial Intelligence and Systems Laboratory ([AISys](https://pooyanjamshidi.github.io/AISys/)), University of South Carolina
   * Supervisor: Professor [Pooyan Jamshidi](https://pooyanjamshidi.github.io/)
-  * Project:  Pretrained Language Models are Symbolic Mathematics Solvers too! ([link](https://knoorbakhsh.github.io/publication/symbolic-math))
+  * **Symbolic Mathematics** (Ongoing): Method improvement utilizing the machine translation techniques as well as the  transfer learning to enhance current mathematical proving approaches. ([link](https://knoorbakhsh.github.io/publication/symbolic-math))
 
 * **Undergraduate Research Assistant**, Spring 2021 - Spring 2022
   * Image Processing Laboratory ([IPL](http://ipl.ce.sharif.edu/)), Sharif University of Technology
   * Supervisor: Professor [Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en)
-  * Project:  LPF-Defense: 3D Adversarial Defense based on Frequency Analysis ([link](https://knoorbakhsh.github.io/publication/lpf-defense))
+  * **LPF-Defense via 3D Adversarial Defense based on Frequency Analysis**: Introduced a state-of-the-art method for defense against adversarial attacks in point clouds. ([link](https://knoorbakhsh.github.io/publication/lpf-defense))
 
 * **Undergraduate Research Assistant**, Fall 2020 - Spring 2021
   * Graph Theory research Group, Sharif University of Technology
   * Supervisor: Professor [Saieed Akbari](https://scholar.google.com/citations?user=1Lozhc4AAAAJ&hl=en)
-  * Project: The research was in the field of regular dominating sets and (𝑟, 𝑠)-dominating sets in graphs. The work also included presenting tutorials about recent publications in graph theory in the [Graph Theory Association](https://graphtheoryassociation.com/) (Link to [my tutorial](https://graphtheoryassociation.com/perfect-forests-by-kimia-noorbakhsh/) on Perfect Forests.).
+  * **Graph Dominating Sets**: Working on regular dominating sets and $(r,\, s)$-dominating sets conjectures.
+  * The work also included presenting tutorials about recent publications in graph theory in the [Graph Theory Association](https://graphtheoryassociation.com/) (Link to [my tutorial](https://graphtheoryassociation.com/perfect-forests-by-kimia-noorbakhsh/) on Perfect Forests.).
 
   
 Skills
 ======
-* Programming Languages: Python, R, Java, C, Racket, Android *, C# *
+* Programming Languages: Python, R, Java, C, Racket
 * Machine Learning Libraries: PyTorch, Tensorflow
 * Word Processors: Microsoft Office, LaTeX
 * Miscellaneous: PostgreSQl
-
-*Limited Proficiency
 
 Languages
 ======
