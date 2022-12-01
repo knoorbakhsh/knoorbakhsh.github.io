@@ -15,4 +15,4 @@ Machine learning models based on temporal point processes are the state of the a
 
 [Download paper here](https://arxiv.org/abs/2111.07603v2)
 
-Recommended citation: Noorbakhsh, Kimia, and Manuel Gomez Rodriguez. "Counterfactual Temporal Point Processes." In Advances in Neural Information Processing Systems (2021)..
+Recommended citation: Noorbakhsh, Kimia, and Manuel Gomez Rodriguez. "Counterfactual Temporal Point Processes." In Advances in Neural Information Processing Systems (2022).
