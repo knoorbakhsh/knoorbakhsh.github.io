@@ -13,7 +13,7 @@ My name is Kimia Noorbakhsh, and I am a last-year Bachelor of Science student in
 
 I am currently a scientific intern at [IST Austria](https://ist.ac.at/en/home/), where I am very fortunate to be advised by [Dr. Dan Alistarh](https://people.csail.mit.edu/alistarh/). In summer 2021, I did my first research intenrship at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) where I had the great pleasure to work with [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/).
 
-I was also a remote undergraduate research assistant at [AISYS Lab](https://pooyanjamshidi.github.io/AISys/), greatful to work under the supervision of [Dr. Pooyan Jamshidi](https://pooyanjamshidi.github.io/).
+I was also a remote undergraduate research collaborator at [AISYS Lab](https://pooyanjamshidi.github.io/AISys/), greatful to work under the supervision of [Dr. Pooyan Jamshidi](https://pooyanjamshidi.github.io/).
 
 My main areas of interest include
 - Causal and Statistical Inference (MPI-SWS)

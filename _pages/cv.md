@@ -28,7 +28,7 @@ Research experience
   * **Counterfactual Temporal Point Processes**: Developed a new method to simulate counterfactual realizations of the temporal point process under an alternative intensity function. ([link](https://knoorbakhsh.github.io/publication/countercaftual-tpp))
 
 
-* **Undergraduate Research Assistant** (Remote), Fall 2020 - Spring 2022
+* **Undergraduate Researcher** (Remote), Fall 2020 - Spring 2022
   * Artificial Intelligence and Systems Laboratory ([AISys](https://pooyanjamshidi.github.io/AISys/)), University of South Carolina
   * Supervisor: Professor [Pooyan Jamshidi](https://pooyanjamshidi.github.io/)
   * **Symbolic Mathematics** (Ongoing): Method improvement utilizing the machine translation techniques as well as the  transfer learning to enhance current mathematical proving approaches. ([link](https://knoorbakhsh.github.io/publication/symbolic-math))
