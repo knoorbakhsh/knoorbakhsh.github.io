@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Important note**: My email address with the `ce.sharif.edu` domain is no longer active due to server issues. Please use my `gmail.com` email address instead. 
 
 My name is Kimia Noorbakhsh, and I am a last-year Bachelor of Science student in [computer engineering](https://ce.sharif.edu/) at Sharif University of Technology (SUT). I completed my Bachelors thesis project entitled "Robustness Improvement of 3D Deep Neural Networks Against Adversarial Attacks by Training with Denoised Data" under the supervision of [Dr. Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en) at the Image Processing Lab ([IPL, SUT](http://ipl.ce.sharif.edu/)).
 
