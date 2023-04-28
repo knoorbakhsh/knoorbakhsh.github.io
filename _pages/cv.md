@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Computer Engineering, Sharif University of Technology (SUT), 2018 – Present 
 * High School Diploma, Farzanegan 1 High School, 2014 - 2018 
-* National Mathematical Olympiad Preparation Camp, Young Scholars Club, Jun. 2016 - Sep. 2016
+  * (National Mathematical Olympiad Preparation Camp, Young Scholars Club, Jun. 2016 - Sep. 2016)
 
 Research experience
 ======
