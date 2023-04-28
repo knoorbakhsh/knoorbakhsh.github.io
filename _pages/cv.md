@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Computer Engineering, Sharif University of Technology (SUT), 2018 – Present 
+* Bachelor of Computer Engineering, Sharif University of Technology (SUT), 2018 – 2023 
 * High School Diploma, Farzanegan 1 High School, 2014 - 2018 
   * (National Mathematical Olympiad Preparation Camp, Young Scholars Club, Jun. 2016 - Sep. 2016)
 
