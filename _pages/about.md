@@ -15,12 +15,10 @@ I am currently a scientific intern at [IST Austria](https://ist.ac.at/en/home/),
 
 I was also a remote undergraduate research collaborator at [AISYS Lab](https://pooyanjamshidi.github.io/AISys/), greatful to work under the supervision of [Dr. Pooyan Jamshidi](https://pooyanjamshidi.github.io/).
 
-My main areas of interest include
+I have experience working on
 - Causal and Statistical Inference (MPI-SWS)
 - Transfer Learning (ISTA, AISYS (UofSC))
 - Adversarial Machine Learning (IPL (SUT))
-
-Previously I have worked on
 - Graph theory and Graph Search Algorithms (SUT)
 
 **Trivia**
