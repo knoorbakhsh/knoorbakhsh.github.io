@@ -6,8 +6,8 @@ redirect_from:
   - /md/
   - /research.html
 ---
-### Conference proceedings
-1. [Counterfactual Temporal Point Processes](https://arxiv.org/abs/2111.07603)  
+### Conference Proceedings
+1. [Counterfactual Temporal Point Processes](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d3faa41886997cfc2128b930077fa49-Paper-Conference.pdf)  
   *Neural Information Processing Systems (NeurIPS), New Orleans (LA, USA), 2022*   
   Kimia Noorbakhsh, Manuel Gomez Rodriguez  
 
