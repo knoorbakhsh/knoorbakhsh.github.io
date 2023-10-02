@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kimia Noorbakhsh"
   avatar           : "profile.jpg"
-  bio              : "Computer Engineering student at Sharif University of Technology"
+  bio              : "PhD Student at MIT"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://www.semanticscholar.org/author/Kimia-Noorbakhsh/2131108591"
-  email            :  'kimianoorbakhsh@gmail.com'
+  email            :  'kimian@mit.edu'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kimia-noorbakhsh/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

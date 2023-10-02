@@ -7,19 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Note**: Please use my `gmail.com` email address for contacting me. 
 
-My name is Kimia Noorbakhsh, and I am a last-year Bachelor of Science student in [computer engineering](https://ce.sharif.edu/) at Sharif University of Technology (SUT). I completed my Bachelors thesis project entitled "Robustness Improvement of 3D Deep Neural Networks Against Adversarial Attacks by Training with Denoised Data" under the supervision of [Dr. Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en) at the Image Processing Lab ([IPL, SUT](http://ipl.ce.sharif.edu/)).
+I am Kimia, first-year PhD student at MIT's Electrical Engineering and Computer Science department ([MIT EECS](https://www.eecs.mit.edu/)), and a member of the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)). Before MIT, I earned my B.Sc. degree in Computer Engineering from [Sharif University of Technology](https://ce.sharif.edu/).
 
-I am currently a scientific intern at [IST Austria](https://ist.ac.at/en/home/), where I am very fortunate to be advised by [Dr. Dan Alistarh](https://people.csail.mit.edu/alistarh/). In summer 2021, I did my first research intenrship at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) where I had the great pleasure to work with [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/).
+My research interests lie in the area of Machine Learning for Computer Networks, Causal Inference, and Natural Language Processing.
 
-I was also a remote undergraduate research collaborator at [AISYS Lab](https://pooyanjamshidi.github.io/AISys/), greatful to work under the supervision of [Dr. Pooyan Jamshidi](https://pooyanjamshidi.github.io/).
+During my undergraduate studies, I was very fortunate to work with [Professor Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/), [Professor Dan Alistarh](https://people.csail.mit.edu/alistarh/), [Professor Pooyan Jamshidi](https://pooyanjamshidi.github.io/), and [Professor Shohreh Kasaei](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en).
 
-I have experience working on
-- Causal and Statistical Inference (MPI-SWS)
-- Transfer Learning (ISTA, AISYS (UofSC))
-- Adversarial Machine Learning (IPL (SUT))
-- Graph theory and Graph Search Algorithms (SUT)
+ I have experience working on
+- Causal and Statistical Inference (at [MPI-SWS](https://www.mpi-sws.org/))
+- Sparse Transfer Learning (at [ISTA](https://ista.ac.at/en/home/))
+- Deep Learning for Symbolic Mathematics (at [AISYS Lab](https://pooyanjamshidi.github.io/AISys/))
+- Adversarial Machine Learning (at Sharif University)
+- Graph theory and Graph Search Algorithms (at Sharif University)
+
 
 **Trivia**
 - In my non-academic life, I enjoy swimming and skiing. I am a professional swimmer with more than ten years of experience in top national teams and competitions.
