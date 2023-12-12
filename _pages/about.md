@@ -23,5 +23,5 @@ During my undergraduate studies, I was very fortunate to work with [Professor Ma
 
 
 **Trivia**
-- In my non-academic life, I enjoy swimming and skiing. I am a professional swimmer with more than ten years of experience in top national teams and competitions.
+- In my non-academic life, I enjoy swimming and skiing. I am a professional swimmer (3 times national champion) with more than ten years of experience in top national teams and competitions.
 
