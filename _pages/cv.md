@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy (PhD) in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (MIT), 2023 - Present
-* Bachelor of Computer Engineering, Sharif University of Technology (SUT), 2018 – 2023 
+* Massachusetts Institute of Technology (MIT)
+  - Doctor of Philosophy (PhD) in Electrical Engineering and Computer Science
+  - 2023 - Present
+* Sharif University of Technology (SUT)
+  - Bachelor of Computer Engineering
+  - 2018 – 2023 
 
 Honors and Awards
 ======
