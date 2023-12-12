@@ -21,7 +21,7 @@ redirect_from:
 
 ### Arxiv
 - [Vision Models Can Be Efficiently Specialized via Few-Shot Task-Aware Compression](https://arxiv.org/abs/2303.14409)  
-  *In Submission*   
+  *In Submission, 2023*   
   Denis Kuznedelev\*, Soroush Tabesh\*, Kimia Noorbakhsh\*, Elias Frantar\*, Sara Beery, Eldar Kurtic, Dan Alistarh 
 - [Pretrained Language Models are Symbolic Mathematics Solvers too!](https://arxiv.org/abs/2110.03501) (**[Code](https://github.com/softsys4ai/differentiable-proving)**)  
   *Arxiv, 2021*   

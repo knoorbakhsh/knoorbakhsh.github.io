@@ -36,7 +36,7 @@ Research experience
 * **Scientific Intern**, Summer 2022 
   * [Distributed Algorithms and Systems Lab](https://ist.ac.at/en/research/alistarh-group/), Institute of science and technology Austria (ISTA)
   * Supervisor: Professor [Dan Alistarh](https://people.csail.mit.edu/alistarh/)
-  * **Sparse Transfer Learning**: Using pruning methods to perform computationally efficient transfer learning on large models.
+  * **Sparse Transfer Learning**: Using pruning methods to perform computationally efficient transfer learning on large models. ([link](https://knoorbakhsh.github.io/publication/taco))
 
 * **Research Intern**, Summer 2021 
   * [Networks Learning Lab](https://github.com/Networks-Learning), Max Planck Institute for Software Systems
