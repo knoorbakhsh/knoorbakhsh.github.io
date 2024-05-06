@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Kimia, a first-year PhD student at MIT's Electrical Engineering and Computer Science department ([MIT EECS](https://www.eecs.mit.edu/)), and a member of the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)). Before MIT, I earned my B.Sc. degree in Computer Engineering from [Sharif University of Technology](https://ce.sharif.edu/).
+---
+permalink: /
+title: "Hello World!"
+excerpt: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am Kimia, a first-year PhD student at MIT's Electrical Engineering and Computer Science department ([MIT EECS](https://www.eecs.mit.edu/)), and a member of the Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)). I am very fortunate to be advised by [Professor Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/). Before MIT, I earned my B.Sc. degree in Computer Engineering from [Sharif University of Technology](https://ce.sharif.edu/).
 
 My research interests lie in the area of Large Language Models and Natural Language Processing, Machine Learning for Computer Networks, and Causal Inference.
 
@@ -24,4 +34,3 @@ During my undergraduate studies, I was very fortunate to work with [Professor Ma
 
 **Trivia**
 - In my non-academic life, I enjoy swimming and skiing. I am a professional swimmer (3 times national champion) with more than ten years of experience in top national teams and competitions.
-
