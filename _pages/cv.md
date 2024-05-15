@@ -31,7 +31,7 @@ Research experience
 * **Graduate Research Assistant**, Fall 2023 - Present 
   * [Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/), Massachusetts Institute of Technology (MIT)
   * Supervisor: Professor [Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/)
-  * Ph.D. student in the Networ and Mobile Systems Group (NMS).
+  * Ph.D. student in the Network and Mobile Systems Group (NMS).
 
 * **Scientific Intern**, Summer 2022 
   * [Distributed Algorithms and Systems Lab](https://ist.ac.at/en/research/alistarh-group/), Institute of science and technology Austria (ISTA)
