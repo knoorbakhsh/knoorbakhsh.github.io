@@ -16,6 +16,9 @@ redirect_from:
   
 
 ### Journals
+- [Vision Models Can Be Efficiently Specialized via Few-Shot Task-Aware Compression](https://openreview.net/forum?id=Za9Tm07fig)  
+  *Transactions on Machine Learning Research, 2025*   
+  Denis Kuznedelev\*, Soroush Tabesh\*, Kimia Noorbakhsh\*, Elias Frantar\*, Sara Beery, Eldar Kurtic, Dan Alistarh 
 - [LPF-Defense: 3D Adversarial Defense based on Frequency Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271388) (**[Code](https://github.com/kimianoorbakhsh/LPF-Defense)**)  
   *PLOS ONE, 2023*   
   Hanieh Naderi, Kimia Noorbakhsh\*, Arian Etemadi\*, Shohreh Kasaei
@@ -23,9 +26,9 @@ redirect_from:
     
 
 ### Arxiv
-- [Vision Models Can Be Efficiently Specialized via Few-Shot Task-Aware Compression](https://arxiv.org/abs/2303.14409)  
-  *In Submission, 2023*   
-  Denis Kuznedelev\*, Soroush Tabesh\*, Kimia Noorbakhsh\*, Elias Frantar\*, Sara Beery, Eldar Kurtic, Dan Alistarh 
+- [Savaal: Scalable Concept-Driven Question Generation to Enhance Human Learning](https://arxiv.org/abs/2502.12477)  
+  *Arxiv, 2025*   
+  Kimia Noorbakhsh\*, Joseph Chandler\*, Pantea Karimi\*, Mohammad Alizadeh, Hari Balakrishnan
 - [Pretrained Language Models are Symbolic Mathematics Solvers too!](https://arxiv.org/abs/2110.03501) (**[Code](https://github.com/softsys4ai/differentiable-proving)**)  
   *Arxiv, 2021*   
   Kimia Noorbakhsh, Modar Sulaiman, Mahdi Sharifi, Kallol Roy, Pooyan Jamshidi
